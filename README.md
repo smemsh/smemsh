@@ -1,5 +1,5 @@
 ## Scott Mcdermott \<scott@smemsh.net\>
-### « *TechOps* / *DevOps* / *SRE* »
+### « *Linux* / *TechOps* / *DevOps* / *SRE* / *C* / *Python* »
 
 github:
 [pulls](https://github.com/pulls?q=is:pr+author:smemsh),
