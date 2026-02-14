@@ -20,8 +20,8 @@ ____
 | --------------------------------------------------------- | ------------------------------------------------------------ |
 | [setup](https://github.com/smemsh/setup/)                 | bake, terraform and bootstrap kubernetes control+data plexes |
 | [field](https://github.com/smemsh/field/)                 | select fields from input lines, many options, good syntax    |
-| [idled](https://github.com/smemsh/idled/)                 | maintain idle/afk state from keyboard/mouse kernel events    |
 | [taskwtools](https://github.com/smemsh/taskwtools/)       | wrappers for taskwarrior and timewarrior                     |
+| [idled](https://github.com/smemsh/idled/)                 | maintain idle/afk state from keyboard/mouse kernel events    |
 | [git-reltag](https://github.com/smemsh/git-reltag/)       | checkout latest tag, or make next tag and push               |
 | [installx](https://github.com/smemsh/installx/)           | install bins or dotfiles into your ~/bin/ and ~/.??*         |
 | [ltxletter](https://github.com/smemsh/ltxletter/)         | makes latex letters using a template from plaintext          |
