@@ -18,6 +18,7 @@ ____
 
 | repo                                                      | description                                                  |
 | --------------------------------------------------------- | ------------------------------------------------------------ |
+| [setup](https://github.com/smemsh/setup/)                 | bake, terraform and bootstrap kubernetes control+data plexes |
 | [field](https://github.com/smemsh/field/)                 | select fields from input lines, many options, good syntax    |
 | [idled](https://github.com/smemsh/idled/)                 | maintain idle/afk state from keyboard/mouse kernel events    |
 | [taskwtools](https://github.com/smemsh/taskwtools/)       | wrappers for taskwarrior and timewarrior                     |
