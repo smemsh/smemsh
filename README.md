@@ -2,9 +2,9 @@
 ### « *Linux* / *Python* / *C* / *Terraform* / *Ansible* / *Kubernetes* »
 
 github:
-[pulls](https://github.com/pulls?q=author:smemsh),
-[issues](https://github.com/issues?q=author:smemsh),
-[comments](https://github.com/issues?q=involves:smemsh)
+[pulls](https://github.com/search?q=author%3Asmemsh&type=pullrequests),
+[issues](https://github.com/search?q=author%3Asmemsh&type=issues),
+[comments](https://github.com/search?q=commenter%3Asmemsh&type=issues),
 dotfiles:
 [.tmux](https://github.com/smemsh/.tmux/),
 [.vim](https://github.com/smemsh/.vim/),
